@@ -62,7 +62,6 @@ You will get a DataFrame `df` with meaningful features. Print to see the df and 
    # Save the DataFrame to Excel
    df.to_excel(excel_file, index=False)
 
-%For a complete example, see the Jupyter notebook `TsAssure.ipynb <https://colab.research.google.com/drive/1tHabIjiNofVFtG9WGYUxxYbJQ6fKT3gX?usp=drive_link>`_.
 
 References
 ==========
